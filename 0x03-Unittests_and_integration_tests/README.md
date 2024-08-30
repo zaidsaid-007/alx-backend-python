@@ -1,7 +1,4 @@
 # 0x03-Unittests_and_integration_tests
-
-# Project Readme
-
 ## Introduction
 
 This project focuses on understanding and implementing effective testing strategies in Python, specifically through unit and integration testing. Testing is a critical part of software development, ensuring that code behaves as expected and is robust against edge cases and potential bugs. Throughout this project, I learned about the differences between unit and integration tests, as well as key testing techniques like mocking, parameterization, and fixtures.
